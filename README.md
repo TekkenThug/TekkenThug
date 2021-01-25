@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### [![An old rock in the desert](/assets/alien.jpg)](https://github.com/TekkenThug)
 <!--
 **TekkenThug/TekkenThug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
