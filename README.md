@@ -17,12 +17,16 @@ This is my mini-profile as an IT-specialist 😎.
 ![](https://img.shields.io/badge/jQuery-Information?style=for-the-badge&logo=jquery&color=3e3e3e)
 ![](https://img.shields.io/badge/Bootstrap-Information?style=for-the-badge&logo=bootstrap&color=3e3e3e)
 ![](https://img.shields.io/badge/Csharp-Information?style=for-the-badge&logo=csharp&color=3e3e3e)
+![](https://img.shields.io/badge/php-Information?style=for-the-badge&logo=php&color=3e3e3e)
+![](https://img.shields.io/badge/mysql-Information?style=for-the-badge&logo=mysql&color=3e3e3e)
 
 ## 🧰 Tools
 ![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=3e3e3e)
 ![](https://img.shields.io/badge/Gulp-Information?style=for-the-badge&logo=gulp&color=3e3e3e)
 ![](https://img.shields.io/badge/VS-Information?style=for-the-badge&logo=visualstudio&color=3e3e3e)
 ![](https://img.shields.io/badge/VSCode-Information?style=for-the-badge&logo=visualstudio&color=3e3e3e)
+![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=3e3e3e)
+![](https://img.shields.io/badge/NPM-Information?style=for-the-badge&logo=npm&color=3e3e3e)
 
 ## 💾 My Stats in GitHub
 
