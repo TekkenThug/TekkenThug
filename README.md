@@ -11,10 +11,9 @@ I am also interested in other areas of development, but this is not the point ğŸ
 This is my mini-profile as an IT-specialist ğŸ˜.
 
 ## My Stats in GitHub
-<div style="display: flex; justify-content: space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=dark" />
-<div>
+
+  <img style="max-width: 50%" align="left" src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=dark" />
+  <img style="max-width: 50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=dark" />
 
 ## Skills
 
