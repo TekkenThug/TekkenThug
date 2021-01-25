@@ -22,7 +22,7 @@ This is my mini-profile as an IT-specialist 😎.
 ![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=3e3e3e)
 ![](https://img.shields.io/badge/Gulp-Information?style=for-the-badge&logo=gulp&color=3e3e3e)
 ![](https://img.shields.io/badge/VS-Information?style=for-the-badge&logo=visualstudio&color=3e3e3e)
-![](https://img.shields.io/badge/VSCode-Information?style=for-the-badge&logo=visualstudiocode&color=3e3e3e)
+![](https://img.shields.io/badge/VSCode-Information?style=for-the-badge&logo=visualstudio&color=3e3e3e)
 
 ## 💾 My Stats in GitHub
 
