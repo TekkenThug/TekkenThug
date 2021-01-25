@@ -11,7 +11,11 @@ I am also interested in other areas of development, but this is not the point ðŸ
 This is my mini-profile as an IT-specialist ðŸ˜Ž.
 
 ## Skills
-![](https://img.shields.io/badge/HTML5?style=flat&logo=html5&color=4AB197)
+![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=html5&color=inactive)
+![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=css3&color=inactive)
+![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=javascript&color=inactive)
+![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=jquery&color=inactive)
+
 
 ## Tools
 
