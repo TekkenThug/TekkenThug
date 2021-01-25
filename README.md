@@ -10,13 +10,15 @@ Hi 👋, I'm Vadim Ignatov, a junior web developer.
 I am also interested in other areas of development, but this is not the point 😋.  
 This is my mini-profile as an IT-specialist 😎.
 
-## 💾 My Stats in GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=synthwave" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=synthwave" />
-
 ## Skills
+![](https://img.shields.io/badge/HTML5?style=flat&logo=html5&color=4AB197)
 
 ## Tools
+
+## 💾 My Stats in GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=gruvbox" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=gruvbox" />
 
 <!--
 **TekkenThug/TekkenThug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
