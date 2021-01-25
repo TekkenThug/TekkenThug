@@ -5,12 +5,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-green)](https://www.instagram.com/tekken_thug7/)
 [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-green)](https://www.codewars.com/users/Tekken_thug)
 
-Hi 👋, I'm Vadim Ignatov, a junior web developer (I am also interested in other areas of development, but this is not the point 😋).
-This is my mini-profile as an IT specialist.
+Hi 👋, I'm Vadim Ignatov, a junior web developer.  
+I am also interested in other areas of development, but this is not the point 😋.  
+This is my mini-profile as an IT-specialist 😎.
 
 ## My Stats in GitHub
-![TekkenThug github stats](https://github-readme-stats.vercel.app/api?username=TekkenThug&show_icons=true&theme=radical)
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact)
+![TekkenThug github stats](https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=dark)
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=dark)
 
 ## Skills
 
