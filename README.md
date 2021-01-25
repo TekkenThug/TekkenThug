@@ -10,8 +10,12 @@ I am also interested in other areas of development, but this is not the point ðŸ
 This is my mini-profile as an IT-specialist ðŸ˜Ž.
 
 ## My Stats in GitHub
-![TekkenThug github stats](https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=dark)
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=dark)
+<a href="https://github.com/TekkenThug">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TekkenThug&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/TekkenThug">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TekkenThug" />
+</a>
 
 ## Skills
 
