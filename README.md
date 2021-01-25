@@ -12,8 +12,8 @@ This is my mini-profile as an IT-specialist 😎.
 
 ## My Stats in GitHub
 
-  <img style="max-width: 50%" align="left" src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=dark" />
-  <img style="max-width: 50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=dark" />
+  <img style="max-width: 50%; float: left" src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=dark" />
+  <img style="max-width: 50%; float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=dark" />
 
 ## Skills
 
