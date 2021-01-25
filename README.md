@@ -10,19 +10,24 @@ Hi 👋, I'm Vadim Ignatov, a junior web developer.
 I am also interested in other areas of development, but this is not the point 😋.  
 This is my mini-profile as an IT-specialist 😎.
 
-## Skills
-![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=html5&color=inactive)
-![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=css3&color=inactive)
-![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=javascript&color=inactive)
-![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=jquery&color=inactive)
+## 💪 Skills
+![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=html5&color=#3E3E3E)
+![](https://img.shields.io/badge/CSS3-Information?style=for-the-badge&logo=css3&color=#3E3E3E)
+![](https://img.shields.io/badge/JS-Information?style=for-the-badge&logo=javascript&color=#3E3E3E)
+![](https://img.shields.io/badge/jQuery-Information?style=for-the-badge&logo=jquery&color=#3E3E3E)
+![](https://img.shields.io/badge/Bootstrap-Information?style=for-the-badge&logo=bootstrap&color=#3E3E3E)
+![](https://img.shields.io/badge/Csharp-Information?style=for-the-badge&logo=csharp&color=#3E3E3E)
 
-
-## Tools
+## 🧰 Tools
+![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=#3E3E3E)
+![](https://img.shields.io/badge/Gulp-Information?style=for-the-badge&logo=gulp&color=#3E3E3E)
+![](https://img.shields.io/badge/VS-Information?style=for-the-badge&logo=visualstudio&color=#3E3E3E)
+![](https://img.shields.io/badge/VSCode-Information?style=for-the-badge&logo=visualstudiocode&color=#3E3E3E)
 
 ## 💾 My Stats in GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=gruvbox" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=merko" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=merko" />
 
 <!--
 **TekkenThug/TekkenThug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
