@@ -1,5 +1,9 @@
-### Hi there 👋
-### [![An old rock in the desert](/assets/alien.jpg)](https://github.com/TekkenThug)
+# I S O L A T I O N    C O D E  
+[![An old rock in the desert](/assets/alien.jpg)](https://github.com/TekkenThug)
+
+[![VK](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://vk.com/tekken_thug7)
+[![Instagram](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.instagram.com/tekken_thug7/)
+[![CodeWars](https://img.shields.io/badge/CodePen-Profile-informational?style=flat)](https://www.codewars.com/users/Tekken_thug)
 <!--
 **TekkenThug/TekkenThug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
