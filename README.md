@@ -1,15 +1,10 @@
-[![KMTT](assets/kmtt.jpeg)](https://github.com/TekkenThug)
-
-<!-- Links on Social -->
-[![VK](https://img.shields.io/badge/VK-Profile-black)](https://vk.com/tekken_thug7)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-black)](https://www.instagram.com/tekken_thug7/)
-[![CodeWars](https://img.shields.io/badge/CodeWars-Profile-black)](https://www.codewars.com/users/Tekken_thug)
+[![KMTT](assets/kmtt.png)](https://github.com/TekkenThug)
 
 Hi 👋, I'm Vadim Ignatov, a junior frontend developer in KMTT.  
 I am also interested in other areas of development 😋.  
 This is my mini-profile as an IT-specialist 😎.
 
-## 💪 Tools and Skills
+## 🛠️ Tools and Skills
 ![](https://img.shields.io/badge/JS-Information?style=for-the-badge&logo=javascript&color=000000)
 ![](https://img.shields.io/badge/Vue-Information?style=for-the-badge&logo=vuedotjs&color=000000)
 ![](https://img.shields.io/badge/ESlint-Information?style=for-the-badge&logo=eslint&color=000000&logoColor=4B32C3)
@@ -23,6 +18,11 @@ This is my mini-profile as an IT-specialist 😎.
 ![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=000000)
 
 ## 💾 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" width="600" height=""/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff" width="600" height=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" width="275" height=""/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff" width="230" height=""/>
 
+## 📞 Contacts
+<!-- Links on Social -->
+[![VK](https://img.shields.io/badge/VK-Profile-black)](https://vk.com/tekken_thug7)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-black)](https://www.instagram.com/tekken_thug7/)
+[![CodeWars](https://img.shields.io/badge/CodeWars-Profile-black)](https://www.codewars.com/users/Tekken_thug)
