@@ -18,11 +18,13 @@ This is my mini-profile as an IT-specialist 😎.
 ![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=000000)
 
 ## 💾 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" width="275" height=""/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff" width="230" height=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" width="" height=""/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff" width="" height=""/>
 
 ## 📞 Contacts
 <!-- Links on Social -->
 [![VK](https://img.shields.io/badge/VK-Profile-black)](https://vk.com/tekken_thug7)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-black)](https://www.instagram.com/tekken_thug7/)
 [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-black)](https://www.codewars.com/users/Tekken_thug)
+
+<!-- experience of work -->
