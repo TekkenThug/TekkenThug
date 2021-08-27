@@ -1,49 +1,28 @@
-[![Alien Isolation Wraooer](/assets/alien-banner.jpg)](https://github.com/TekkenThug)
+[![KMTT](assets/kmtt.jpeg)](https://github.com/TekkenThug)
 
 <!-- Links on Social -->
+[![VK](https://img.shields.io/badge/VK-Profile-black)](https://vk.com/tekken_thug7)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-black)](https://www.instagram.com/tekken_thug7/)
+[![CodeWars](https://img.shields.io/badge/CodeWars-Profile-black)](https://www.codewars.com/users/Tekken_thug)
 
-[![VK](https://img.shields.io/badge/VK-Profile-green)](https://vk.com/tekken_thug7)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-green)](https://www.instagram.com/tekken_thug7/)
-[![CodeWars](https://img.shields.io/badge/CodeWars-Profile-green)](https://www.codewars.com/users/Tekken_thug)
-
-Hi 👋, I'm Vadim Ignatov, a junior web developer.  
-I am also interested in other areas of development, but this is not the point 😋.  
+Hi 👋, I'm Vadim Ignatov, a junior frontend developer in KMTT.  
+I am also interested in other areas of development 😋.  
 This is my mini-profile as an IT-specialist 😎.
 
-## 💪 Skills
-![](https://img.shields.io/badge/HTML5-Information?style=for-the-badge&logo=html5&color=3e3e3e)
-![](https://img.shields.io/badge/CSS3-Information?style=for-the-badge&logo=css3&color=3e3e3e)
-![](https://img.shields.io/badge/JS-Information?style=for-the-badge&logo=javascript&color=3e3e3e)
-![](https://img.shields.io/badge/jQuery-Information?style=for-the-badge&logo=jquery&color=3e3e3e)
-![](https://img.shields.io/badge/Bootstrap-Information?style=for-the-badge&logo=bootstrap&color=3e3e3e)
-![](https://img.shields.io/badge/Csharp-Information?style=for-the-badge&logo=csharp&color=3e3e3e)
-![](https://img.shields.io/badge/php-Information?style=for-the-badge&logo=php&color=3e3e3e)
-![](https://img.shields.io/badge/mysql-Information?style=for-the-badge&logo=mysql&color=3e3e3e)
+## 💪 Tools and Skills
+![](https://img.shields.io/badge/JS-Information?style=for-the-badge&logo=javascript&color=000000)
+![](https://img.shields.io/badge/Vue-Information?style=for-the-badge&logo=vuedotjs&color=000000)
+![](https://img.shields.io/badge/ESlint-Information?style=for-the-badge&logo=eslint&color=000000&logoColor=4B32C3)
+![](https://img.shields.io/badge/webpack-Information?style=for-the-badge&logo=webpack&color=000000)
+![](https://img.shields.io/badge/Gulp-Information?style=for-the-badge&logo=gulp&color=000000)
 
-## 🧰 Tools
-![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=3e3e3e)
-![](https://img.shields.io/badge/Gulp-Information?style=for-the-badge&logo=gulp&color=3e3e3e)
-![](https://img.shields.io/badge/VS-Information?style=for-the-badge&logo=visualstudio&color=3e3e3e)
-![](https://img.shields.io/badge/VSCode-Information?style=for-the-badge&logo=visualstudio&color=3e3e3e)
-![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=3e3e3e)
-![](https://img.shields.io/badge/NPM-Information?style=for-the-badge&logo=npm&color=3e3e3e)
+![](https://img.shields.io/badge/HTML-Information?style=for-the-badge&logo=html5&color=000000)
+![](https://img.shields.io/badge/CSS-Information?style=for-the-badge&logo=css3&color=000000&logoColor=1572B6)
+![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=000000)
 
-## 💾 My Stats in GitHub
+![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=000000)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&theme=merko" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&theme=merko" />
+## 💾 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" width="600" height=""/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff" width="600" height=""/>
 
-<!--
-**TekkenThug/TekkenThug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
