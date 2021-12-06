@@ -6,6 +6,7 @@ This is my mini-profile as an IT-specialist 😎.
 
 ## 🛠️ Tools and Skills
 ![](https://img.shields.io/badge/JS-Information?style=for-the-badge&logo=javascript&color=000000)
+![](https://img.shields.io/badge/TS-Information?style=for-the-badge&logo=typescript&color=000000)
 ![](https://img.shields.io/badge/Vue-Information?style=for-the-badge&logo=vuedotjs&color=000000)
 ![](https://img.shields.io/badge/ESlint-Information?style=for-the-badge&logo=eslint&color=000000&logoColor=4B32C3)
 ![](https://img.shields.io/badge/webpack-Information?style=for-the-badge&logo=webpack&color=000000)
