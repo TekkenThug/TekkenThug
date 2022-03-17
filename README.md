@@ -1,5 +1,3 @@
-[![KMTT](assets/kmtt.png)](https://github.com/TekkenThug)
-
 Hi 👋, I'm Vadim Ignatov, a junior frontend developer.  
 I am also interested in other areas of development 😋.  
 This is my mini-profile as an IT-specialist 😎.
