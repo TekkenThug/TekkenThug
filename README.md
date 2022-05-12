@@ -15,7 +15,7 @@ This is my mini-profile as an IT-specialist 😎.
 ![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=000000)
 
 ![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=000000)
-![](https://img.shields.io/badge/SQL-Information?style=for-the-badge&logo=MySQL&color=000000&logoColor=4B32C3)
+![](https://img.shields.io/badge/SQL-Information?style=for-the-badge&logo=MySQL&color=000000&logoColor=000000)
 
 ## 💾 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=TekkenThug&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" width="" height=""/>  
