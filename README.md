@@ -1,4 +1,4 @@
-Hi 👋, I'm Vadim Ignatov, a middle frontend developer.  
+Hi 👋, I'm Vadim Ignatov, a frontend developer.  
 I am also interested in other areas of development 😋.  
 This is my mini-profile as an IT-specialist 😎.
 
