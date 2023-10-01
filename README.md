@@ -28,6 +28,6 @@ This is my mini-profile as an IT-specialist 😎.
 
 ## 📞 Contacts
 <!-- Links on Social -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black)]([https://vk.com/tekken_thug7](https://www.linkedin.com/in/ignatov-vadim/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black)](https://www.linkedin.com/in/ignatov-vadim/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-black)](https://www.instagram.com/tekken_thug7/)
 [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-black)](https://www.codewars.com/users/Tekken_thug)
