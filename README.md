@@ -1,12 +1,12 @@
-Hi 👋, I'm Vadim Ignatov, a frontend developer.  
-I am also interested in other areas of development 😋.  
-This is my mini-profile as an IT-specialist 😎.
+Hi 👋, my name is Vadim Ignatov and am a web developer.  
+I am also interested in other areas of IT 😋.
 
 ## 🛠️ Tools and Skills
 
 ### Languages
 ![](https://img.shields.io/badge/JavaScript-Information?style=for-the-badge&logo=javascript&color=000000)
 ![](https://img.shields.io/badge/TypeScript-Information?style=for-the-badge&logo=typescript&color=000000)
+![](https://img.shields.io/badge/PHP-Information?style=for-the-badge&logo=php&color=000000)
 
 ### Frameworks
 ![](https://img.shields.io/badge/React-Information?style=for-the-badge&logo=react&color=000000)
@@ -19,6 +19,9 @@ This is my mini-profile as an IT-specialist 😎.
 ![](https://img.shields.io/badge/ESlint-Information?style=for-the-badge&logo=eslint&color=000000&logoColor=4B32C3)
 ![](https://img.shields.io/badge/webpack-Information?style=for-the-badge&logo=webpack&color=000000)
 ![](https://img.shields.io/badge/Gulp-Information?style=for-the-badge&logo=gulp&color=000000)
+
+### Backend tools
+![](https://img.shields.io/badge/Laravel-Information?style=for-the-badge&logo=laravel&color=000000)
 
 ### Common tools
 ![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=000000)
