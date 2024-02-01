@@ -11,6 +11,7 @@ I am also interested in other areas of IT 😋.
 ### Frontend
 ![](https://img.shields.io/badge/React-Information?style=for-the-badge&logo=react&color=000000)
 ![](https://img.shields.io/badge/Vue-Information?style=for-the-badge&logo=vuedotjs&color=000000)
+![](https://img.shields.io/badge/Nuxt-Information?style=for-the-badge&logo=nuxtdotjs&color=000000)
 ![](https://img.shields.io/badge/HTML-Information?style=for-the-badge&logo=html5&color=000000)
 ![](https://img.shields.io/badge/CSS-Information?style=for-the-badge&logo=css3&color=000000&logoColor=1572B6)
 ![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=000000)
