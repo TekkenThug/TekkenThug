@@ -31,5 +31,5 @@ I am also interested in other areas of IT 😋.
 ## 📞 Contacts
 <!-- Links on Social -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black)](https://www.linkedin.com/in/ignatov-vadim/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-black)](https://www.instagram.com/tekken_thug7/)
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-black)](https://t.me/Tekken_thug)
 [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-black)](https://www.codewars.com/users/Tekken_thug)
