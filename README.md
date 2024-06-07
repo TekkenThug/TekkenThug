@@ -6,6 +6,7 @@ I am also interested in other areas of IT 😋.
 ### Languages
 ![](https://img.shields.io/badge/JavaScript-Information?style=for-the-badge&logo=javascript&color=000000)
 ![](https://img.shields.io/badge/TypeScript-Information?style=for-the-badge&logo=typescript&color=000000)
+![](https://img.shields.io/badge/Node.js-Information?style=for-the-badge&logo=node.js&color=000000)
 ![](https://img.shields.io/badge/PHP-Information?style=for-the-badge&logo=php&color=000000)
 
 ### Frontend
@@ -17,13 +18,14 @@ I am also interested in other areas of IT 😋.
 ![](https://img.shields.io/badge/Sass-Information?style=for-the-badge&logo=sass&color=000000)
 ![](https://img.shields.io/badge/ESlint-Information?style=for-the-badge&logo=eslint&color=000000&logoColor=4B32C3)
 ![](https://img.shields.io/badge/webpack-Information?style=for-the-badge&logo=webpack&color=000000)
-![](https://img.shields.io/badge/Gulp-Information?style=for-the-badge&logo=gulp&color=000000)
 
 ### Backend
+![](https://img.shields.io/badge/express-Information?style=for-the-badge&logo=express&color=000000)
 ![](https://img.shields.io/badge/Laravel-Information?style=for-the-badge&logo=laravel&color=000000)
 
 ### Data Bases
 ![](https://img.shields.io/badge/MySQL-Information?style=for-the-badge&logo=MySQL&color=000000&logoColor=FFFFFF)
+![](https://img.shields.io/badge/PostgreSQL-Information?style=for-the-badge&logo=PostgreSQL&color=000000&logoColor=FFFFFF)
 
 ### Common tools
 ![](https://img.shields.io/badge/GIT-Information?style=for-the-badge&logo=git&color=000000)
